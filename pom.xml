@@ -41,6 +41,11 @@
             <name>Marlon Cardenas</name>
             <email>marlonca@ucm.es</email>
         </developer>
+        <developer>
+            <id>melkoroth</id>
+            <name>Juan L. Perez Diez</name>
+            <email>jlpdiez@ucm.es</email>
+        </developer>
     </developers>
     <properties>
         <vendor>GRASIA Research Group</vendor>
@@ -51,7 +56,7 @@
         <developername>Pablo Campillo-Sanchez</developername>
         <developeremail>pabcampi@ucm.es</developeremail>
         <!-- begin: izpack configuration -->
-        <ingenme.version>1.0.8</ingenme.version>
+        <ingenme.version>1.0.10-SNAPSHOT</ingenme.version>
         <!-- end: izpack configuration -->
     </properties>
     <modules>
